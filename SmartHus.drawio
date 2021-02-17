@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-17T20:13:09.358Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="ZTg0Y3dopNffBl36uc81" version="14.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-17T20:16:33.499Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="7EgQg4HGosTKWWjitQnQ" version="14.4.0" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1037" dy="588" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -98,14 +98,17 @@
         <mxCell id="n86fInDvUH73gwOZvBDh-17" value="" style="line;html=1;strokeWidth=1;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="n86fInDvUH73gwOZvBDh-14">
           <mxGeometry y="78" width="180" height="8" as="geometry" />
         </mxCell>
-        <mxCell id="n86fInDvUH73gwOZvBDh-18" value="void SkruPåAlleLys()" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="n86fInDvUH73gwOZvBDh-14">
+        <mxCell id="n86fInDvUH73gwOZvBDh-29" value="Objekt()" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="n86fInDvUH73gwOZvBDh-14">
           <mxGeometry y="86" width="180" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="n86fInDvUH73gwOZvBDh-19" value="void SkruAvAlleLys()" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="n86fInDvUH73gwOZvBDh-14">
+        <mxCell id="n86fInDvUH73gwOZvBDh-20" value="vector&lt;Objekt*&gt; getObjekter()" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="n86fInDvUH73gwOZvBDh-14">
           <mxGeometry y="112" width="180" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="n86fInDvUH73gwOZvBDh-20" value="vector&lt;Objekt*&gt; getObjekter()" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="n86fInDvUH73gwOZvBDh-14">
+        <mxCell id="n86fInDvUH73gwOZvBDh-19" value="void SkruAvAlleLys()" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="n86fInDvUH73gwOZvBDh-14">
           <mxGeometry y="138" width="180" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="n86fInDvUH73gwOZvBDh-18" value="void SkruPåAlleLys()" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="n86fInDvUH73gwOZvBDh-14">
+          <mxGeometry y="164" width="180" height="26" as="geometry" />
         </mxCell>
         <mxCell id="n86fInDvUH73gwOZvBDh-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=block;endFill=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="n86fInDvUH73gwOZvBDh-24" target="n86fInDvUH73gwOZvBDh-14">
           <mxGeometry relative="1" as="geometry" />
